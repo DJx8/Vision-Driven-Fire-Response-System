@@ -1,1 +1,12 @@
-
+torch
+torchvision
+opencv-python
+numpy
+pyserial
+pillow
+matplotlib
+PyYAML
+scipy
+tqdm
+pandas
+seaborn
