@@ -146,3 +146,10 @@ The fire detection model achieved approximately 85% detection accuracy during te
 * Improved detection under challenging lighting conditions
 
 ---
+
+## Author
+
+Dhananjay A.V
+
+---
+
